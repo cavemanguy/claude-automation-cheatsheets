@@ -42,64 +42,67 @@ Everything you need to automate projects with Claude - curated, organized, and r
 
 ### Popular Community Servers
 
-#### 📊 Databases & Data
-- **[PostgreSQL MCP Servers](https://github.com/wong2/awesome-mcp-servers#database)** - Database integration servers • [📋 Community List](https://github.com/wong2/awesome-mcp-servers)
-- **[SQLite MCP Servers](https://github.com/appcypher/awesome-mcp-servers#database)** - SQLite database tools • [📋 Alternative List](https://github.com/appcypher/awesome-mcp-servers)
-- **[MongoDB](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** - Use Memory server for document storage • [📖 Docs](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)
-- **[MySQL](https://github.com/wong2/awesome-mcp-servers#database)** - See community list for MySQL servers • [📋 Community List](https://github.com/wong2/awesome-mcp-servers)
-- **[Supabase](https://github.com/wong2/awesome-mcp-servers#database)** - Check community for Supabase implementations • [📋 Awesome List](https://github.com/wong2/awesome-mcp-servers)
-- **Database Tools** - More database servers being developed by community • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20database)
+#### 📊 Databases & Vector Storage
+- **[Meilisearch MCP](https://github.com/meilisearch/meilisearch-mcp)** - Fast, typo-tolerant search engine integration • [⭐ 98 stars](https://github.com/meilisearch/meilisearch-mcp) • Python
+- **[Qdrant MCP](https://github.com/qdrant/mcp-server-qdrant)** - Vector database with semantic search capabilities • [📦 Install](https://pypi.org/project/mcp-server-qdrant/) • Python
+- **[Chroma MCP](https://github.com/chroma-core/chroma-mcp)** - AI-native open-source vector database • [📖 Docs](https://github.com/chroma-core/chroma-mcp) • Python
+- **[Elasticsearch MCP](https://github.com/elastic/elasticsearch-mcp)** - Enterprise search and analytics engine • [📦 Install](https://github.com/elastic/elasticsearch-mcp) • TypeScript
+- **[YDB MCP](https://github.com/ydb-platform/ydb-mcp)** - Distributed SQL database with AI-powered operations • [⭐ 5 stars](https://github.com/ydb-platform/ydb-mcp) • Python
+- **[Redis Cloud API MCP](https://github.com/redis/mcp-redis-cloud)** - In-memory data structure store • [📦 Install](https://github.com/redis/mcp-redis-cloud) • TypeScript
 
 #### ☁️ Cloud & DevOps
-- **[AWS CLI](https://github.com/wong2/awesome-mcp-servers#cloud-platforms)** - Check community for AWS integrations • [📋 Awesome List](https://github.com/wong2/awesome-mcp-servers)
-- **[Docker](https://github.com/wong2/awesome-mcp-servers#containers--orchestration)** - Container management tools in development • [📋 Community List](https://github.com/wong2/awesome-mcp-servers)
-- **[Kubernetes](https://github.com/appcypher/awesome-mcp-servers#devops)** - K8s tools being developed • [📋 DevOps List](https://github.com/appcypher/awesome-mcp-servers)
-- **[GitHub Actions](https://github.com/anthropics/claude-code-action)** - Official GitHub Actions integration • [📖 Docs](https://docs.anthropic.com/claude/docs/claude-code/github-action)
-- **Cloud Tools** - More cloud integrations coming from community • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20cloud)
+- **[Upstash MCP](https://github.com/upstash/upstash-mcp)** - Serverless Redis and Kafka platform • [📦 Install](https://github.com/upstash/upstash-mcp) • TypeScript
+- **[Tembo MCP](https://github.com/tembo-io/tembo-mcp)** - Postgres-as-a-Service platform • [📖 Docs](https://github.com/tembo-io/tembo-mcp) • Rust
+- **[CircleCI MCP](https://github.com/circleci/circleci-mcp)** - CI/CD pipeline management and automation • [📦 Install](https://github.com/circleci/circleci-mcp) • TypeScript
+- **[JFrog MCP](https://github.com/jfrog/jfrog-mcp)** - Artifact repository and DevOps platform • [📖 Docs](https://github.com/jfrog/jfrog-mcp) • Java
+- **[Kong Konnect MCP](https://github.com/kong/kong-konnect-mcp)** - API gateway and service mesh management • [📦 Install](https://github.com/kong/kong-konnect-mcp) • TypeScript
+- **[Alibaba Cloud DMS MCP](https://github.com/alibaba-cloud/dms-mcp)** - Database management service • [📖 Docs](https://github.com/alibaba-cloud/dms-mcp) • Python
 
-#### 🔍 Search & Web
-- **[Exa (Metaphor)](https://github.com/exa-labs/exa-mcp-server)** - AI-powered web search and data retrieval • [📦 Install](https://www.npmjs.com/package/@exa-labs/mcp-server)
-- **[Tavily Search](https://github.com/wong2/awesome-mcp-servers#search)** - Check community for Tavily implementations • [📋 Search Tools](https://github.com/wong2/awesome-mcp-servers)
-- **Web Search Tools** - Multiple search MCP servers in development • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20search)
-- **Browser Automation** - Use official Puppeteer server for web tasks • [📖 Puppeteer Docs](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)
+#### 🔍 Search & Web Scraping
+- **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** - AI-powered web search and data extraction • [⭐ 7,482 stars](https://github.com/tavily-ai/tavily-mcp) • JavaScript
+- **[Kagi MCP](https://github.com/kagi-ai/kagi-mcp)** - Privacy-focused search engine integration • [📦 Install](https://github.com/kagi-ai/kagi-mcp) • TypeScript
+- **[Scrapezy MCP](https://github.com/Scrapezy/mcp)** - Structured data extraction from websites • [⭐ 12 stars](https://github.com/Scrapezy/mcp) • [📦 @scrapezy/mcp](https://www.npmjs.com/package/@scrapezy/mcp)
+- **[Skrape MCP](https://github.com/skrape/skrape-mcp)** - Web scraping and data extraction • [📖 Docs](https://github.com/skrape/skrape-mcp) • Kotlin
+- **[AdsPower LocalAPI MCP](https://github.com/AdsPower/local-api-mcp-typescript)** - Browser automation and management • [📦 Install](https://github.com/AdsPower/local-api-mcp-typescript) • TypeScript
 
 #### 💬 Communication & Productivity
-- **[Slack](https://github.com/wong2/awesome-mcp-servers#communication)** - Multiple Slack MCP servers available • [📋 Communication Tools](https://github.com/wong2/awesome-mcp-servers)
-- **[Email](https://github.com/appcypher/awesome-mcp-servers#productivity)** - Email integration servers in development • [📋 Productivity List](https://github.com/appcypher/awesome-mcp-servers)
-- **[Notion](https://github.com/wong2/awesome-mcp-servers#knowledge-management)** - Check community for Notion integrations • [📋 Knowledge Tools](https://github.com/wong2/awesome-mcp-servers)
-- **[Calendar](https://github.com/appcypher/awesome-mcp-servers#productivity)** - Calendar and scheduling tools • [📋 Productivity Tools](https://github.com/appcypher/awesome-mcp-servers)
-- **Productivity Tools** - Growing collection of productivity servers • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20productivity)
+- **[PostHog MCP](https://github.com/PostHog/mcp)** - Product analytics and feature management • [📖 Official Server](https://github.com/PostHog/mcp) • Python
+- **[Readwise MCP](https://github.com/readwiseio/readwise-mcp)** - Reading highlights and knowledge management • [⭐ 51 stars](https://github.com/readwiseio/readwise-mcp) • [📦 @readwise/readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp)
+- **[Inkdrop MCP](https://github.com/inkdrop-app/inkdrop-mcp)** - Note-taking and knowledge management • [📖 Docs](https://github.com/inkdrop-app/inkdrop-mcp) • TypeScript
+- **[Liveblocks MCP](https://github.com/liveblocks/liveblocks-mcp)** - Real-time collaboration infrastructure • [📦 Install](https://github.com/liveblocks/liveblocks-mcp) • TypeScript
+- **[Hunter MCP](https://github.com/hunter-io/hunter-mcp)** - Email finding and verification service • [📖 Docs](https://github.com/hunter-io/hunter-mcp) • TypeScript
 
 #### 🛡️ Security & Monitoring
-- **[Security Tools](https://github.com/wong2/awesome-mcp-servers#security)** - Security-focused MCP servers in development • [📋 Security List](https://github.com/wong2/awesome-mcp-servers)
-- **[Monitoring](https://github.com/appcypher/awesome-mcp-servers#monitoring)** - System monitoring tools • [📋 Monitoring Tools](https://github.com/appcypher/awesome-mcp-servers)
-- **Infrastructure Tools** - DevOps and security servers growing • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20monitoring)
+- **[Nefino MCP](https://github.com/nefino/nefino-mcp)** - Website monitoring and performance analytics • [📦 Install](https://github.com/nefino/nefino-mcp) • TypeScript
+- **[Audiense Insights MCP](https://github.com/audiense/audiense-mcp)** - Social media audience intelligence • [📖 Docs](https://github.com/audiense/audiense-mcp) • Python
+- **[Debugg AI MCP](https://github.com/debugg-ai/debugg-ai-mcp)** - Browser automation and testing • [📦 Install](https://github.com/debugg-ai/debugg-ai-mcp) • TypeScript
 
-#### 🎨 Creative & Media
-- **[Image Generation](https://github.com/wong2/awesome-mcp-servers#ai--ml)** - AI image tools in community list • [📋 AI Tools](https://github.com/wong2/awesome-mcp-servers)
-- **[Media Processing](https://github.com/appcypher/awesome-mcp-servers#media)** - Audio/video processing servers • [📋 Media Tools](https://github.com/appcypher/awesome-mcp-servers)
-- **Creative Tools** - Growing collection of creative automation • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20media)
+#### 🎨 Creative & AI Tools
+- **[Recraft AI MCP](https://github.com/recraft-ai/recraft-mcp)** - AI-powered design and creative tools • [📖 Docs](https://github.com/recraft-ai/recraft-mcp) • Python
+- **[Glif MCP](https://github.com/glif-ai/glif-mcp)** - AI workflow and automation platform • [📦 Install](https://github.com/glif-ai/glif-mcp) • TypeScript
+- **[MCP Server Chart](https://github.com/chart-studio/chart-mcp)** - Data visualization and charting • [📖 Docs](https://github.com/chart-studio/chart-mcp) • TypeScript
 
 ### Specialized MCP Servers
 
-#### 📱 Mobile Development
-- **iOS Simulator** - iOS development and testing
-- **Android ADB** - Android device control
-- **React Native** - Mobile app development tools
-- **Expo** - React Native development platform
+#### 🎮 Gaming & Entertainment
+- **[OSRS MCP Server](https://github.com/WaterSippin/mcp-osrs)** - Old School RuneScape Wiki API and game data • [⭐ 18 stars](https://github.com/WaterSippin/mcp-osrs) • [📦 @jayarrowz/mcp-osrs](https://www.npmjs.com/package/@jayarrowz/mcp-osrs)
 
-#### 🧪 Testing & QA
-- **Playwright** - Cross-browser testing automation
-- **Selenium** - Web application testing
-- **Jest** - JavaScript testing framework
-- **Cypress** - End-to-end testing platform
+#### 📈 Analytics & Business Intelligence
+- **[Hologres MCP](https://github.com/alibaba-cloud/hologres-mcp)** - Real-time interactive analytics service • [📖 Docs](https://github.com/alibaba-cloud/hologres-mcp) • Python
+- **[PostHog MCP](https://github.com/PostHog/mcp)** - Product analytics and user behavior tracking • [📖 Official](https://github.com/PostHog/mcp) • Python
 
-#### 📈 Analytics & Business
-- **Google Analytics** - Web analytics integration
-- **Mixpanel** - Product analytics platform
-- **Stripe** - Payment processing integration
-- **PayPal** - Payment system integration
-- **Shopify** - E-commerce platform tools
+#### 📝 Documentation & Knowledge
+- **[Readwise MCP](https://github.com/readwiseio/readwise-mcp)** - Reading highlights and knowledge base integration • [⭐ 51 stars](https://github.com/readwiseio/readwise-mcp) • JavaScript
+- **[Inkdrop MCP](https://github.com/inkdrop-app/inkdrop-mcp)** - Note-taking and markdown documentation • [📖 Docs](https://github.com/inkdrop-app/inkdrop-mcp) • TypeScript
+
+#### 🔍 Research & Data Mining
+- **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** - AI-powered research and web search • [⭐ 7,482 stars](https://github.com/tavily-ai/tavily-mcp) • JavaScript
+- **[Meilisearch MCP](https://github.com/meilisearch/meilisearch-mcp)** - Full-text search and document indexing • [⭐ 98 stars](https://github.com/meilisearch/meilisearch-mcp) • Python
+- **[Scrapezy MCP](https://github.com/Scrapezy/mcp)** - Automated web data extraction • [⭐ 12 stars](https://github.com/Scrapezy/mcp) • JavaScript
+
+#### 🤖 AI & Automation
+- **[Recraft AI MCP](https://github.com/recraft-ai/recraft-mcp)** - AI-powered design and creative automation • [📖 Docs](https://github.com/recraft-ai/recraft-mcp) • Python
+- **[Glif MCP](https://github.com/glif-ai/glif-mcp)** - AI workflow and automation platform • [📦 Install](https://github.com/glif-ai/glif-mcp) • TypeScript
 
 ---
 
