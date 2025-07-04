@@ -225,7 +225,7 @@ npm install -g @modelcontextprotocol/server-filesystem
 
 **Need Help?** 
 - Check the [Contributing Guide](../CONTRIBUTING.md) to add your own resources
-- Open an [issue](https://github.com/yourusername/claude-automation-cheatsheets/issues) if you find problems
+- Open an [issue](https://github.com/cavemanguy/claude-automation-cheatsheets/issues) if you find problems
 - Join the community Discord for real-time support
 
 **⭐ Star this repository** if this guide helped you get started!

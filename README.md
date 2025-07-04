@@ -43,44 +43,42 @@ Everything you need to automate projects with Claude - curated, organized, and r
 ### Popular Community Servers
 
 #### 📊 Databases & Data
-- **[MongoDB](https://github.com/stumpylog/mcp-mongo)** - Query and analyze MongoDB collections • [📦 Install](https://www.npmjs.com/package/mcp-mongo)
-- **[PostgreSQL](https://github.com/punkpeye/mcp-postgres)** - Advanced PostgreSQL database integration • [📦 Install](https://www.npmjs.com/package/mcp-postgres)
-- **[MySQL](https://github.com/designcompanyllc/mysql_mcp_server)** - MySQL database with schema inspection • [📦 Install](https://www.npmjs.com/package/mysql_mcp_server)
-- **[SQLite](https://github.com/designcompanyllc/sqlite_mcp_server)** - Lightweight database operations • [📦 Install](https://www.npmjs.com/package/sqlite_mcp_server)
-- **[Supabase](https://github.com/supabase-community/mcp-supabase)** - Supabase platform integration • [📦 Install](https://www.npmjs.com/package/mcp-supabase)
-- **[Airtable](https://github.com/domdomegg/mcp-airtable)** - Read/write access to Airtable databases • [📦 Install](https://www.npmjs.com/package/mcp-airtable)
-- **[Snowflake](https://github.com/adrianwedd/mcp-snowflake)** - Data warehouse integration • [📦 Install](https://www.npmjs.com/package/mcp-snowflake)
+- **[PostgreSQL MCP Servers](https://github.com/wong2/awesome-mcp-servers#database)** - Database integration servers • [📋 Community List](https://github.com/wong2/awesome-mcp-servers)
+- **[SQLite MCP Servers](https://github.com/appcypher/awesome-mcp-servers#database)** - SQLite database tools • [📋 Alternative List](https://github.com/appcypher/awesome-mcp-servers)
+- **[MongoDB](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** - Use Memory server for document storage • [📖 Docs](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)
+- **[MySQL](https://github.com/wong2/awesome-mcp-servers#database)** - See community list for MySQL servers • [📋 Community List](https://github.com/wong2/awesome-mcp-servers)
+- **[Supabase](https://github.com/wong2/awesome-mcp-servers#database)** - Check community for Supabase implementations • [📋 Awesome List](https://github.com/wong2/awesome-mcp-servers)
+- **Database Tools** - More database servers being developed by community • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20database)
 
 #### ☁️ Cloud & DevOps
-- **[AWS](https://github.com/ianatha/mcp-aws)** - Comprehensive AWS services integration • [📦 Install](https://www.npmjs.com/package/mcp-aws)
-- **[Google Cloud](https://github.com/firebase/mcp-gcp)** - GCP services and APIs • [📦 Install](https://www.npmjs.com/package/mcp-gcp)
-- **[Docker](https://github.com/lspillane/mcp-docker)** - Container management and operations • [📦 Install](https://www.npmjs.com/package/mcp-docker)
-- **[Kubernetes](https://github.com/Flux159/mcp-k8s)** - Cluster management and deployments • [📦 Install](https://www.npmjs.com/package/mcp-k8s)
-- **[GitHub Actions](https://github.com/anthropics/claude-code-action)** - Workflow automation • [📖 Docs](https://docs.anthropic.com/claude/docs/claude-code/github-action)
+- **[AWS CLI](https://github.com/wong2/awesome-mcp-servers#cloud-platforms)** - Check community for AWS integrations • [📋 Awesome List](https://github.com/wong2/awesome-mcp-servers)
+- **[Docker](https://github.com/wong2/awesome-mcp-servers#containers--orchestration)** - Container management tools in development • [📋 Community List](https://github.com/wong2/awesome-mcp-servers)
+- **[Kubernetes](https://github.com/appcypher/awesome-mcp-servers#devops)** - K8s tools being developed • [📋 DevOps List](https://github.com/appcypher/awesome-mcp-servers)
+- **[GitHub Actions](https://github.com/anthropics/claude-code-action)** - Official GitHub Actions integration • [📖 Docs](https://docs.anthropic.com/claude/docs/claude-code/github-action)
+- **Cloud Tools** - More cloud integrations coming from community • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20cloud)
 
 #### 🔍 Search & Web
-- **[Tavily Search](https://github.com/tavily-ai/mcp-tavily)** - AI-optimized search engine • [📦 Install](https://www.npmjs.com/package/mcp-tavily)
-- **[Perplexity](https://github.com/perplexity-ai/mcp-perplexity)** - Real-time web research capabilities • [📦 Install](https://www.npmjs.com/package/mcp-perplexity)
-- **[Kagi Search](https://github.com/kagi-search/mcp-kagi)** - Privacy-focused search integration • [📦 Install](https://www.npmjs.com/package/mcp-kagi)
-- **[Exa Search](https://github.com/exa-labs/mcp-exa)** - AI-powered web information retrieval • [📦 Install](https://www.npmjs.com/package/mcp-exa)
+- **[Exa (Metaphor)](https://github.com/exa-labs/exa-mcp-server)** - AI-powered web search and data retrieval • [📦 Install](https://www.npmjs.com/package/@exa-labs/mcp-server)
+- **[Tavily Search](https://github.com/wong2/awesome-mcp-servers#search)** - Check community for Tavily implementations • [📋 Search Tools](https://github.com/wong2/awesome-mcp-servers)
+- **Web Search Tools** - Multiple search MCP servers in development • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20search)
+- **Browser Automation** - Use official Puppeteer server for web tasks • [📖 Puppeteer Docs](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)
 
 #### 💬 Communication & Productivity
-- **[Slack](https://github.com/slack-mcp/mcp-slack)** - Channel management and messaging • [📦 Install](https://www.npmjs.com/package/mcp-slack)
-- **[Discord](https://github.com/discord-mcp/mcp-discord)** - Server and channel automation • [📦 Install](https://www.npmjs.com/package/mcp-discord)
-- **[Notion](https://github.com/notion/mcp-notion)** - Document and database management • [📦 Install](https://www.npmjs.com/package/mcp-notion)
-- **[Obsidian](https://github.com/obsidian-mcp/mcp-obsidian)** - Knowledge management integration • [📦 Install](https://www.npmjs.com/package/mcp-obsidian)
-- **[Jira](https://github.com/atlassian/mcp-jira)** - Project management and issue tracking • [📦 Install](https://www.npmjs.com/package/mcp-jira)
-- **[Linear](https://github.com/linear/mcp-linear)** - Modern issue tracking integration • [📦 Install](https://www.npmjs.com/package/mcp-linear)
+- **[Slack](https://github.com/wong2/awesome-mcp-servers#communication)** - Multiple Slack MCP servers available • [📋 Communication Tools](https://github.com/wong2/awesome-mcp-servers)
+- **[Email](https://github.com/appcypher/awesome-mcp-servers#productivity)** - Email integration servers in development • [📋 Productivity List](https://github.com/appcypher/awesome-mcp-servers)
+- **[Notion](https://github.com/wong2/awesome-mcp-servers#knowledge-management)** - Check community for Notion integrations • [📋 Knowledge Tools](https://github.com/wong2/awesome-mcp-servers)
+- **[Calendar](https://github.com/appcypher/awesome-mcp-servers#productivity)** - Calendar and scheduling tools • [📋 Productivity Tools](https://github.com/appcypher/awesome-mcp-servers)
+- **Productivity Tools** - Growing collection of productivity servers • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20productivity)
 
 #### 🛡️ Security & Monitoring
-- **[Sentry](https://github.com/getsentry/mcp-sentry)** - Error tracking and performance monitoring • [📦 Install](https://www.npmjs.com/package/mcp-sentry)
-- **[Datadog](https://github.com/datadog/mcp-datadog)** - Infrastructure monitoring • [📦 Install](https://www.npmjs.com/package/mcp-datadog)
-- **[Grafana](https://github.com/grafana/mcp-grafana)** - Metrics and alerting • [📦 Install](https://www.npmjs.com/package/mcp-grafana)
+- **[Security Tools](https://github.com/wong2/awesome-mcp-servers#security)** - Security-focused MCP servers in development • [📋 Security List](https://github.com/wong2/awesome-mcp-servers)
+- **[Monitoring](https://github.com/appcypher/awesome-mcp-servers#monitoring)** - System monitoring tools • [📋 Monitoring Tools](https://github.com/appcypher/awesome-mcp-servers)
+- **Infrastructure Tools** - DevOps and security servers growing • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20monitoring)
 
 #### 🎨 Creative & Media
-- **[EverArt](https://github.com/everart/mcp-everart)** - AI image generation • [📦 Install](https://www.npmjs.com/package/mcp-everart)
-- **[Whisper](https://github.com/openai/mcp-whisper)** - Speech-to-text conversion • [📦 Install](https://www.npmjs.com/package/mcp-whisper)
-- **[FFmpeg](https://github.com/ffmpeg/mcp-ffmpeg)** - Media processing and conversion • [📦 Install](https://www.npmjs.com/package/mcp-ffmpeg)
+- **[Image Generation](https://github.com/wong2/awesome-mcp-servers#ai--ml)** - AI image tools in community list • [📋 AI Tools](https://github.com/wong2/awesome-mcp-servers)
+- **[Media Processing](https://github.com/appcypher/awesome-mcp-servers#media)** - Audio/video processing servers • [📋 Media Tools](https://github.com/appcypher/awesome-mcp-servers)
+- **Creative Tools** - Growing collection of creative automation • [🔍 Search NPM](https://www.npmjs.com/search?q=mcp%20media)
 
 ### Specialized MCP Servers
 
@@ -228,13 +226,13 @@ Everything you need to automate projects with Claude - curated, organized, and r
 ## 🚀 Automation Tools & Workflows
 
 ### Installation & Setup Tools
-- **[mcp-get](https://github.com/mcp-get/mcp-get)** - Command line tool for installing MCP servers • [📦 Install](https://www.npmjs.com/package/mcp-get)
-- **[MCPHub](https://mcphub.io)** - GUI app for discovering and managing MCP servers • [🌐 Web App](https://mcphub.io)
-- **[mcp-manager](https://github.com/mcp-manager/mcp-manager)** - Web UI for installing and managing MCP servers • [📦 Install](https://www.npmjs.com/package/mcp-manager)
+- **[NPM MCP Servers](https://www.npmjs.com/search?q=@modelcontextprotocol)** - Official MCP servers on NPM • [📦 Browse](https://www.npmjs.com/search?q=@modelcontextprotocol)
+- **[Claude Desktop](https://claude.ai/desktop)** - Official desktop app with MCP support • [🌐 Download](https://claude.ai/desktop)
+- **[MCP Server Registry](https://github.com/modelcontextprotocol/registry)** - Official registry of MCP servers • [📖 Browse](https://github.com/modelcontextprotocol/registry)
 
 ### Configuration Management
-- **[mcp-guardian](https://github.com/mcp-guardian/mcp-guardian)** - GUI for proxying and managing MCP servers • [📦 Install](https://www.npmjs.com/package/mcp-guardian)
-- **[dxt](https://github.com/dxt-tools/dxt)** - Desktop Extension toolkit for packaging MCP servers • [📖 Docs](https://dxt.tools)
+- **[MCP Configuration Guide](https://docs.anthropic.com/claude/docs/claude-desktop/mcp)** - Official configuration documentation • [📖 Guide](https://docs.anthropic.com/claude/docs/claude-desktop/mcp)
+- **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** - Build custom MCP servers • [📦 Install](https://www.npmjs.com/package/@modelcontextprotocol/sdk)
 
 ### Workflow Automation Examples
 
@@ -449,24 +447,24 @@ if __name__ == "__main__":
 ## 🛠️ Development Tools
 
 ### IDE Integrations
-- **[claude-code.nvim](https://github.com/nvim-claude/claude-code.nvim)** - Neovim integration • [📦 Install](https://github.com/nvim-claude/claude-code.nvim#installation)
-- **[VS Code MCP Extension](https://marketplace.visualstudio.com/items?itemName=anthropic.mcp)** - Visual Studio Code support • [🛒 Marketplace](https://marketplace.visualstudio.com/items?itemName=anthropic.mcp)
-- **[Cursor Integration](https://cursor.sh/mcp)** - Cursor IDE MCP support • [📖 Docs](https://cursor.sh/docs/mcp)
+- **[Claude Code CLI](https://docs.anthropic.com/claude/docs/claude-code)** - Official command-line interface • [📦 Install](https://docs.anthropic.com/claude/docs/claude-code#installation)
+- **[VS Code Claude Extension](https://marketplace.visualstudio.com/search?term=claude&target=VSCode)** - Search for Claude extensions • [🛒 Marketplace](https://marketplace.visualstudio.com/vscode)
+- **[Cursor with Claude](https://cursor.sh/)** - AI-powered code editor with Claude support • [📖 Docs](https://cursor.sh/docs)
 
 ### Management & Monitoring Tools
-- **[CC Usage](https://github.com/cc-usage/cc-usage)** - Claude Code usage analytics and cost tracking • [📦 Install](https://www.npmjs.com/package/cc-usage)
-- **[Claude Squad](https://github.com/claude-squad/claude-squad)** - Multi-agent workspace management • [🌐 Web App](https://claudesquad.io)
-- **[Claude Task Master](https://github.com/claude-task/task-master)** - AI-driven task management • [📦 Install](https://www.npmjs.com/package/claude-task-master)
+- **[Claude Desktop](https://claude.ai/desktop)** - Official desktop application • [📦 Download](https://claude.ai/desktop)
+- **[MCP Server Development](https://github.com/modelcontextprotocol/servers)** - Build your own MCP servers • [📖 Docs](https://github.com/modelcontextprotocol/servers/blob/main/README.md)
+- **[Claude API Usage](https://console.anthropic.com/usage)** - Monitor your API usage • [🌐 Console](https://console.anthropic.com)
 
 ### Utility Tools
-- **[mcp-cli](https://github.com/mcp-cli/mcp-cli)** - CLI inspector for MCP • [📦 Install](https://www.npmjs.com/package/mcp-cli)
-- **[MCP Inspector](https://github.com/mcp-inspector/inspector)** - Debug and test MCP servers • [🌐 Web App](https://mcp-inspector.dev)
-- **[Claude Composer](https://github.com/claude-composer/composer)** - Enhanced Claude Code experience • [📖 Docs](https://claude-composer.dev)
+- **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** - Official TypeScript SDK • [📦 Install](https://www.npmjs.com/package/@modelcontextprotocol/sdk)
+- **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)** - Official Python SDK • [📦 Install](https://pypi.org/project/mcp/)
+- **[MCP Server Examples](https://github.com/modelcontextprotocol/servers/tree/main/src)** - Reference implementations • [📖 Docs](https://github.com/modelcontextprotocol/servers/blob/main/README.md)
 
 ### Browser Extensions & Automation
-- **[Desktop Commander MCP](https://github.com/desktop-commander/mcp-server)** - Desktop automation server • [📦 Install](https://www.npmjs.com/package/mcp-desktop-commander)
-- **[Browser Control MCP](https://github.com/browser-control/mcp-browser)** - Browser automation with extension • [🌐 Chrome Store](https://chrome.google.com/webstore/detail/mcp-browser-control)
-- **[Auto-Approve Tools](https://github.com/mcp-tools/auto-approve)** - Auto-approve trusted MCP tools • [📦 Install](https://www.npmjs.com/package/mcp-auto-approve)
+- **[Puppeteer MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** - Official browser automation • [📦 Install](https://www.npmjs.com/package/@modelcontextprotocol/server-puppeteer)
+- **[Fetch MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** - Web content fetching • [📦 Install](https://www.npmjs.com/package/@modelcontextprotocol/server-fetch)
+- **[Brave Search MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** - Web search integration • [📦 Install](https://www.npmjs.com/package/@modelcontextprotocol/server-brave-search)
 
 ---
 
@@ -476,13 +474,13 @@ if __name__ == "__main__":
 - **[Claude Code Overview](https://docs.anthropic.com/claude/docs/claude-code)** - Official getting started guide
 - **[Claude Code Best Practices](https://docs.anthropic.com/claude/docs/claude-code/cli-usage)** - Anthropic's best practices
 - **[MCP Specification](https://spec.modelcontextprotocol.io/)** - Model Context Protocol documentation
-- **[Claude Desktop User Guide](https://docs.anthropic.com/claude/docs/claude-desktop/mcp)** - Setting up MCP with Claude Desktop
+- **[Claude Desktop User Guide](https://docs.anthropic.com/claude/docs/claude-desktop)** - Setting up MCP with Claude Desktop
 
 ### Community Guides & Tutorials
-- **[Ultimate Claude MCP Guide](https://claudemcp.com/guide)** - Comprehensive setup and usage guide
-- **[MCP Tutorial - Build Your First Server](https://github.com/modelcontextprotocol/servers/blob/main/docs/tutorial.md)** - Step-by-step MCP development
-- **[Claude Code CLI Commands](https://claudecode.io/commands)** - 20 essential commands for productivity
-- **[Configuring MCP Tools](https://claudecode.io/configuration)** - Better configuration methods
+- **[MCP Developer Guide](https://github.com/modelcontextprotocol/servers/blob/main/README.md)** - Official developer documentation
+- **[MCP Server Examples](https://github.com/modelcontextprotocol/servers/tree/main/src)** - Official server implementations and tutorials
+- **[Claude Code CLI Reference](https://docs.anthropic.com/claude/docs/claude-code/cli-usage)** - Complete CLI command reference
+- **[MCP Configuration Guide](https://docs.anthropic.com/claude/docs/claude-desktop/mcp)** - Official configuration guide
 
 ### Video Tutorials & Demos
 - **[Claude Computer Use Demo](https://www.youtube.com/watch?v=ODaHJzOyVCQ)** - Official Anthropic demo
@@ -491,7 +489,7 @@ if __name__ == "__main__":
 
 ### Cheat Sheets & Quick References
 - **[MCP Commands Reference](https://spec.modelcontextprotocol.io/specification/basic/)** - Complete CLI command reference
-- **[Slash Commands Quick Reference](https://claudecode.io/commands)** - Community command library
+- **[Slash Commands Documentation](https://docs.anthropic.com/claude/docs/claude-code/cli-usage)** - Official command reference
 - **[Troubleshooting Guide](https://docs.anthropic.com/claude/docs/claude-code/troubleshooting)** - Common issues and solutions
 
 ---
@@ -499,7 +497,7 @@ if __name__ == "__main__":
 ## 🌟 Community Resources
 
 ### Awesome Lists & Collections
-- **[Awesome Claude Code](https://github.com/anthropics/awesome-claude-code)** - Curated commands and workflows
+- **[Claude Code Examples](https://docs.anthropic.com/claude/docs/claude-code/examples)** - Official examples and workflows
 - **[Awesome MCP Servers (wong2)](https://github.com/wong2/awesome-mcp-servers)** - Comprehensive server list
 - **[Awesome MCP Servers (appcypher)](https://github.com/appcypher/awesome-mcp-servers)** - Alternative curated list
 - **[Awesome MCP Servers (punkpeye)](https://github.com/punkpeye/awesome-mcp-servers)** - Another community collection
@@ -510,21 +508,21 @@ if __name__ == "__main__":
 - **[Claude Code Action](https://github.com/anthropics/claude-code-action)** - GitHub Actions integration
 
 ### Community Platforms
-- **[Claude MCP Community](https://claudemcp.com)** - Dedicated MCP community website
-- **[MCP Discord Server](https://discord.gg/mcp)** - Official MCP community Discord
+- **[MCP GitHub Discussions](https://github.com/modelcontextprotocol/servers/discussions)** - Official community discussions
+- **[Anthropic Discord](https://discord.com/invite/anthropic)** - Official Anthropic community Discord
 - **[r/modelcontextprotocol](https://reddit.com/r/modelcontextprotocol)** - Reddit community
-- **[MCP GitHub Discussions](https://github.com/modelcontextprotocol/servers/discussions)** - Official discussions
+- **[Claude Documentation](https://docs.anthropic.com/claude)** - Official Claude documentation and guides
 
 ### Tools & Utilities Directories
-- **[MCP Servers Hub](https://mcphub.io)** - Searchable MCP server directory
-- **[Smithery](https://smithery.ai)** - MCP server registry and marketplace
-- **[mcp.run](https://mcp.run)** - Hosted MCP server registry
-- **[Toolbase](https://toolbase.ai)** - Desktop MCP management application
+- **[MCP Server Registry](https://github.com/modelcontextprotocol/registry)** - Official MCP server registry
+- **[Awesome MCP Servers](https://github.com/wong2/awesome-mcp-servers)** - Community-curated MCP server list
+- **[MCP Server Examples](https://github.com/modelcontextprotocol/servers/tree/main/src)** - Official server implementations
+- **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** - Official TypeScript SDK
 
 ### Learning Resources
-- **[MCP Tutorial by DataCamp](https://app.datacamp.com/learn/courses/model-context-protocol)** - Building MCP servers
-- **[Claude AI Hub](https://claude.ai/learn)** - Claude tutorials and guides
-- **[How I Use Claude Code](https://blog.anthropic.com/claude-code-examples)** - Real-world usage examples
+- **[MCP Getting Started Guide](https://github.com/modelcontextprotocol/servers/blob/main/docs/getting-started.md)** - Official getting started documentation
+- **[Claude Documentation](https://docs.anthropic.com/claude)** - Official Claude documentation
+- **[Claude Code Examples](https://docs.anthropic.com/claude/docs/claude-code/examples)** - Official usage examples
 
 ---
 
@@ -556,9 +554,9 @@ if __name__ == "__main__":
 |---------------|---------------|
 | **Official Docs** | [Claude Code](https://docs.anthropic.com/claude/docs/claude-code) • [MCP Spec](https://spec.modelcontextprotocol.io/) |
 | **Server Lists** | [Official](https://github.com/modelcontextprotocol/servers) • [wong2](https://github.com/wong2/awesome-mcp-servers) • [appcypher](https://github.com/appcypher/awesome-mcp-servers) |
-| **Commands** | [Awesome Claude Code](https://github.com/anthropics/awesome-claude-code) • [Community Commands](https://claudecode.io/commands) |
-| **Community** | [Discord](https://discord.gg/mcp) • [Reddit](https://reddit.com/r/modelcontextprotocol) • [Claude MCP](https://claudemcp.com) |
-| **Tools** | [MCPHub](https://mcphub.io) • [Smithery](https://smithery.ai) • [Toolbase](https://toolbase.ai) |
+| **Commands** | [Claude Code CLI](https://docs.anthropic.com/claude/docs/claude-code/cli-usage) • [MCP Commands](https://spec.modelcontextprotocol.io/specification/basic/) |
+| **Community** | [Anthropic Discord](https://discord.com/invite/anthropic) • [Reddit](https://reddit.com/r/modelcontextprotocol) • [GitHub Discussions](https://github.com/modelcontextprotocol/servers/discussions) |
+| **Tools** | [MCP Registry](https://github.com/modelcontextprotocol/registry) • [Awesome MCP](https://github.com/wong2/awesome-mcp-servers) • [TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) |
 
 ---
 

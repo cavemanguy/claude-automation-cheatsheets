@@ -46,7 +46,7 @@ Thank you for your interest in contributing to the Claude Automation Cheat Sheet
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/yourusername/claude-automation-cheatsheets
+   git fork https://github.com/cavemanguy/claude-automation-cheatsheets
    cd claude-automation-cheatsheets
    ```
 
@@ -212,8 +212,8 @@ Thank you for helping make Claude automation more accessible to everyone!
 
 ## 📞 Contact
 
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/claude-automation-cheatsheets/issues)
-- **Email**: claude-automation@community.com
-- **Discord**: Join the MCP Discord server
+- **GitHub Issues**: [Create an issue](https://github.com/cavemanguy/claude-automation-cheatsheets/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/cavemanguy/claude-automation-cheatsheets/discussions)
+- **Discord**: [Anthropic Community Discord](https://discord.com/invite/anthropic)
 
 Last Updated: January 2025
