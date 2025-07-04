@@ -25,7 +25,7 @@ Everything you need to automate projects with Claude - curated, organized, and r
 
 ---
 
-## 🔧 MCP Servers
+## 🔧 Claude
 
 ### Official Anthropic Documentation
 
