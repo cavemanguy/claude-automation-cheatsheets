@@ -27,7 +27,7 @@ Everything you need to automate projects with Claude - curated, organized, and r
 
 ## 🔧 MCP Servers
 
-### Official Anthropic Servers
+### Official Anthropic Documentation
 
 | Server | Description | Install Command | Links |
 |--------|-------------|----------------|-------|
