@@ -51,12 +51,10 @@ Everything you need to automate projects with Claude - curated, organized, and r
 - **[Redis Cloud API MCP](https://github.com/redis/mcp-redis-cloud)** - In-memory data structure store • [📦 Install](https://github.com/redis/mcp-redis-cloud) • TypeScript
 
 #### ☁️ Cloud & DevOps
-- **[Upstash MCP](https://github.com/upstash/upstash-mcp)** - Serverless Redis and Kafka platform • [📦 Install](https://github.com/upstash/upstash-mcp) • TypeScript
-- **[Tembo MCP](https://github.com/tembo-io/tembo-mcp)** - Postgres-as-a-Service platform • [📖 Docs](https://github.com/tembo-io/tembo-mcp) • Rust
-- **[CircleCI MCP](https://github.com/circleci/circleci-mcp)** - CI/CD pipeline management and automation • [📦 Install](https://github.com/circleci/circleci-mcp) • TypeScript
-- **[JFrog MCP](https://github.com/jfrog/jfrog-mcp)** - Artifact repository and DevOps platform • [📖 Docs](https://github.com/jfrog/jfrog-mcp) • Java
-- **[Kong Konnect MCP](https://github.com/kong/kong-konnect-mcp)** - API gateway and service mesh management • [📦 Install](https://github.com/kong/kong-konnect-mcp) • TypeScript
-- **[Alibaba Cloud DMS MCP](https://github.com/alibaba-cloud/dms-mcp)** - Database management service • [📖 Docs](https://github.com/alibaba-cloud/dms-mcp) • Python
+- **[GitHub MCP Server](https://github.com/github/github-mcp-server)** - Official GitHub API integration • [📖 Official](https://github.com/github/github-mcp-server) • Go
+- **[Supabase MCP](https://github.com/supabase-community/supabase-mcp)** - Database, auth, and edge functions platform • [📦 Install](https://github.com/supabase-community/supabase-mcp) • TypeScript
+- **[Sentry MCP](https://github.com/getsentry/mcp)** - Error tracking and performance monitoring • [📖 Official](https://github.com/getsentry/mcp) • Python
+- **[Mapbox MCP](https://github.com/mapbox/mcp-server)** - Geospatial intelligence and mapping APIs • [📦 Install](https://github.com/mapbox/mcp-server) • JavaScript
 
 #### 🔍 Search & Web Scraping
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** - AI-powered web search and data extraction • [⭐ 7,482 stars](https://github.com/tavily-ai/tavily-mcp) • JavaScript
@@ -68,19 +66,17 @@ Everything you need to automate projects with Claude - curated, organized, and r
 #### 💬 Communication & Productivity
 - **[PostHog MCP](https://github.com/PostHog/mcp)** - Product analytics and feature management • [📖 Official Server](https://github.com/PostHog/mcp) • Python
 - **[Readwise MCP](https://github.com/readwiseio/readwise-mcp)** - Reading highlights and knowledge management • [⭐ 51 stars](https://github.com/readwiseio/readwise-mcp) • [📦 @readwise/readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp)
-- **[Inkdrop MCP](https://github.com/inkdrop-app/inkdrop-mcp)** - Note-taking and knowledge management • [📖 Docs](https://github.com/inkdrop-app/inkdrop-mcp) • TypeScript
-- **[Liveblocks MCP](https://github.com/liveblocks/liveblocks-mcp)** - Real-time collaboration infrastructure • [📦 Install](https://github.com/liveblocks/liveblocks-mcp) • TypeScript
-- **[Hunter MCP](https://github.com/hunter-io/hunter-mcp)** - Email finding and verification service • [📖 Docs](https://github.com/hunter-io/hunter-mcp) • TypeScript
+- **[Notion MCP](https://github.com/makenotion/notion-mcp-server)** - Official Notion workspace integration • [📖 Official](https://github.com/makenotion/notion-mcp-server) • TypeScript
+- **[Twilio MCP](https://github.com/twilio-labs/mcp)** - SMS, voice, and messaging APIs • [📦 Install](https://github.com/twilio-labs/mcp) • Node.js
+- **[Stripe MCP](https://github.com/stripe/agent-toolkit)** - Payment processing and financial APIs • [📖 Official](https://github.com/stripe/agent-toolkit) • TypeScript
 
 #### 🛡️ Security & Monitoring
-- **[Nefino MCP](https://github.com/nefino/nefino-mcp)** - Website monitoring and performance analytics • [📦 Install](https://github.com/nefino/nefino-mcp) • TypeScript
-- **[Audiense Insights MCP](https://github.com/audiense/audiense-mcp)** - Social media audience intelligence • [📖 Docs](https://github.com/audiense/audiense-mcp) • Python
-- **[Debugg AI MCP](https://github.com/debugg-ai/debugg-ai-mcp)** - Browser automation and testing • [📦 Install](https://github.com/debugg-ai/debugg-ai-mcp) • TypeScript
+- **[Sentry MCP](https://github.com/getsentry/mcp)** - Error tracking and application monitoring • [📖 Official](https://github.com/getsentry/mcp) • Python
+- **[Semgrep MCP](https://github.com/semgrep/mcp)** - Static code analysis and security scanning • [📦 Install](https://github.com/semgrep/mcp) • Python
 
-#### 🎨 Creative & AI Tools
-- **[Recraft AI MCP](https://github.com/recraft-ai/recraft-mcp)** - AI-powered design and creative tools • [📖 Docs](https://github.com/recraft-ai/recraft-mcp) • Python
-- **[Glif MCP](https://github.com/glif-ai/glif-mcp)** - AI workflow and automation platform • [📦 Install](https://github.com/glif-ai/glif-mcp) • TypeScript
-- **[MCP Server Chart](https://github.com/chart-studio/chart-mcp)** - Data visualization and charting • [📖 Docs](https://github.com/chart-studio/chart-mcp) • TypeScript
+#### 🎨 Creative & Development Tools
+- **[Mapbox MCP](https://github.com/mapbox/mcp-server)** - Geographic data visualization and mapping • [📦 Install](https://github.com/mapbox/mcp-server) • JavaScript
+- **[GitHub MCP](https://github.com/github/github-mcp-server)** - Repository management and code collaboration • [📖 Official](https://github.com/github/github-mcp-server) • Go
 
 ### Specialized MCP Servers
 
@@ -100,9 +96,9 @@ Everything you need to automate projects with Claude - curated, organized, and r
 - **[Meilisearch MCP](https://github.com/meilisearch/meilisearch-mcp)** - Full-text search and document indexing • [⭐ 98 stars](https://github.com/meilisearch/meilisearch-mcp) • Python
 - **[Scrapezy MCP](https://github.com/Scrapezy/mcp)** - Automated web data extraction • [⭐ 12 stars](https://github.com/Scrapezy/mcp) • JavaScript
 
-#### 🤖 AI & Automation
-- **[Recraft AI MCP](https://github.com/recraft-ai/recraft-mcp)** - AI-powered design and creative automation • [📖 Docs](https://github.com/recraft-ai/recraft-mcp) • Python
-- **[Glif MCP](https://github.com/glif-ai/glif-mcp)** - AI workflow and automation platform • [📦 Install](https://github.com/glif-ai/glif-mcp) • TypeScript
+#### 🤖 Development & Integration
+- **[GitHub MCP](https://github.com/github/github-mcp-server)** - Official GitHub repository management • [📖 Official](https://github.com/github/github-mcp-server) • Go
+- **[Stripe MCP](https://github.com/stripe/agent-toolkit)** - Payment processing and financial APIs • [📦 Official](https://github.com/stripe/agent-toolkit) • TypeScript
 
 ---
 
